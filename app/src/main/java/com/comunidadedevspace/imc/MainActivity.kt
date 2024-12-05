@@ -20,12 +20,6 @@ class MainActivity : AppCompatActivity() {
             val altura = edtAltura.text
             println("Roque acao do botao" + altura)
 
-
-
-
-
-
-
         }
     }
 }
