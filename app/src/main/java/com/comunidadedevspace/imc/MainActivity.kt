@@ -19,6 +19,9 @@ class MainActivity : AppCompatActivity() {
             val peso = edtPeso.text
             val altura = edtAltura.text
             println("Roque acao do botao" + altura)
+
+
+
         }
     }
 }
